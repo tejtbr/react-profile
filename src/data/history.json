@@ -1,0 +1,28 @@
+[{
+        "role": "React JS",
+        "organisation": "Coursera",
+        "startDate": "jan, 2024",
+        "endDate": " ",
+        "experiences": ["gained an hands on experinece on react js", "built do to app"],
+        "imageSrc": "history/udemy.png"
+    },
+    {
+        "role": "web development course",
+        "organisation": "Coursera",
+        "startDate": "Aug, 2023",
+        "endDate": "dec, 2022",
+        "experiences": ["gained an practical experience", "built an pets word website"],
+        "imageSrc": "history/coursera.png"
+    },
+    {
+        "role": "Android development",
+        "organisation": "Intrainz",
+        "startDate": "Apr, 2022",
+        "endDate": "Jun, 2022",
+        "experiences": [
+            "gained an practical experience"
+
+        ],
+        "imageSrc": "history/android.png"
+    }
+]
